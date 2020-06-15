@@ -21,3 +21,13 @@ The primary focus areas of this workshop are the following:
 2. **Differentiable geometry processing and graphics** tools, including, but not limited to, differentiable mesh manipulation, rendering, higher-order light transport, and their applications.
 3. **Differentiable physics simulation** methods, that innovate either at the implementation level (i.e., differentiable reparameterizations of contact, articulated bodies, collisions, etc.), or at the application level (policy learning, representation learning, physics-informed neural network design, etc.).
 4. **Interplay of the aforementioned** areas. This, in the organizers’ opinion, is the key focus of the workshop.
+
+
+# Invited speakers
+
+Invited speaker list and bios go here.
+
+
+# Organizers
+
+Organizer info here
