@@ -5,3 +5,7 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+@import "bootstrap.min.css";
+
+@import "workshop.css";
