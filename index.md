@@ -31,7 +31,7 @@ The primary focus areas of this workshop are the following:
 5. **Applications and limitations of differentiable methods**. Differentiable physics allows for more efficient model predictive control and system identification. Differentiable graphics and rendering might allow for more accurate novel viewpoint synthesis. However, there are also limitations. Gradients are not always useful, for example, in contact-rich or long-horizon manipulation tasks. Furthermore, differentiable methods are often applicable only where precise process models are available. How can differentiable methods be combined with non gradient-based optimization (or other techniques) to circumvent these issues?
 
 
-# Confirmed speakers
+## Confirmed speakers
 
 <table>
     
@@ -87,7 +87,9 @@ The primary focus areas of this workshop are the following:
 </table>
 
 
-# Organizers
+## Organizers
+
+### Program committee
 
 <table style="border-collapse: collapse; border: none;">
     
@@ -233,6 +235,35 @@ The primary focus areas of this workshop are the following:
     </tr>
 
 </table>
+
+
+### Diversity and inclusion chair
+
+
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+        <td style="border: none;">
+        <div class="col-xs-15">
+            <a href="https://vdean.github.io/" target="_blank">
+              <p align="center">
+              <img class="people-pic" src="assets/img/victoria.jpg">
+              </p>
+            </a>
+            <div class="people-name text-center">
+              <a href="https://vdean.github.io/" target="_blank">Victoria Dean</a><br>
+              <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>
+            </div>
+        </div>
+        </td>
+    </tr>
+</table>
+
+
+### Program Committee
+
+Work-in-progress
+
+<!-- [Miles Macklin](http://blog.mmacklin.com/): [University of Copenhagen](https://www.ku.dk/english/), [NVIDIA](https://www.nvidia.com/en-us/) -->
 
 
 <!-- Old format
