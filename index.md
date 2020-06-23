@@ -16,12 +16,6 @@ layout: home
 
 “Differentiable programs” are parameterized programs that allow themselves to be rewritten by gradient-based optimization, and are ubiquitous in modern-day machine learning. Over the last 3-4 years, there is an increasingly popular trend of explicitly encoding our knowledge of the rules of the world in the form of differentiable programs. In particular, differentiable realizations of well-studied processes such as physics, rendering, projective geometry, optimization, etc. have enabled the design of several novel learning techniques. For example, a large number of approaches have been proposed for the unsupervised learning of depth estimation from unlabeled videos. Differentiable 3D reconstruction pipelines have demonstrated the potential for task-driven representation learning. A number of differentiable rendering approaches have been shown to enable single-view 3D reconstruction and other inverse graphics approaches (without requiring any form of 3D supervision). Differentiable physics simulators are being built, to perform physical parameter estimation from video, or for model-predictive control. While the aforementioned advances largely occurred in isolation, recent efforts have attempted bridging the gap between the aforementioned areas. To foster synergy across these disciplines, and to provide a common platform for researchers in these areas to discuss the path ahead, and to raise awareness of the potential of these techniques to the community at-large, we propose to organize the “first workshop on differentiable computer vision, graphics, and physics in machine learning”.
 
-The primary focus areas of this workshop are the following:
-
-
-Differentiable physics simulation methods, 
-
-Interplay of the aforementioned areas. This, in the organizers’ opinion, is the key focus of the workshop. Our “call for papers” will emphasize this fact, and when picking contributed talks, submissions that span two or more of the above areas will be prioritized. Examples of such interplay include, but are not limited to, differentiable renderers with physics-awareness, vision techniques for dynamic scenes (that explicitly factor in the physics of object motion/interaction).
 
 The primary focus areas of this workshop are the following:
 1. **Differentiable computer vision techniques**, including, but not limited to, differentiable depth and pose estimation, feature extraction and matching pipelines, image filtering, pointset alignment, reconstruction pipelines, and their applications.
