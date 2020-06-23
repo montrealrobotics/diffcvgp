@@ -28,7 +28,6 @@ The primary focus areas of this workshop are the following:
 ## Confirmed speakers
 
 <table>
-    
     <!-- Sanja Fidler -->
     <tr>
         <td>
@@ -44,7 +43,6 @@ The primary focus areas of this workshop are the following:
             </div>
         </td>
     </tr>
-
     <!-- Peter Battaglia -->
     <tr>
         <td>
@@ -60,7 +58,6 @@ The primary focus areas of this workshop are the following:
             </div>
         </td>
     </tr>
-
     <!-- Andrea Tagliasacchi -->
     <tr>
         <td>
@@ -76,8 +73,51 @@ The primary focus areas of this workshop are the following:
             </div>
         </td>
     </tr>
-
-
+    <!-- Georgia Gkioxari -->
+    <tr>
+        <td>
+            <div class="col-xs-2">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/georgia.jpg">
+                </p>
+            </div>
+        </td>
+        <td>
+            <div class="people-name text-center">
+                <a href="https://gkioxari.github.io/" target="_blank">Georgia Gkioxari</a>, <a href="https://research.facebook.com/ai/" target="_blank">Facebook AI Research</a>
+            </div>
+        </td>
+    </tr>
+    <!-- Camillo Jose Taylor -->
+    <tr>
+        <td>
+            <div class="col-xs-2">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/camillo.jpg">
+                </p>
+            </div>
+        </td>
+        <td>
+            <div class="people-name text-center">
+                <a href="https://www.cis.upenn.edu/~cjtaylor/" target="_blank">Camillo Jose Taylor</a>, <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>
+            </div>
+        </td>
+    </tr>
+    <!-- Yuanming Hu -->
+    <tr>
+        <td>
+            <div class="col-xs-2">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/yuanming.jpg">
+                </p>
+            </div>
+        </td>
+        <td>
+            <div class="people-name text-center">
+                <a href="http://taichi.graphics/me/" target="_blank">Yuanming Hu</a>, <a href="https://www.mit.edu/" target="_blank">Massachusetts Institute of Technology</a>
+            </div>
+        </td>
+    </tr>
 </table>
 
 
