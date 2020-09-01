@@ -150,6 +150,8 @@ The primary focus areas of this workshop are the following:
 4. **Applications and limitations** of differentiable methods. Differentiable physics allows for more efficient model predictive control and system identification. Differentiable graphics and rendering might allow for more accurate novel viewpoint synthesis. However, there are also limitations: for example, gradients are not always useful in contact-rich or long-horizon manipulation tasks. Furthermore, differentiable methods are often applicable only where precise process models are available. How can differentiable methods be combined with gradient-free optimization (or other techniques) to circumvent these issues?
 5. **Multi-disciplinary efforts** that integrate differentiable techniques from two or more of the above areas. This is a key area for the workshop. Examples include, but are not limited to, physics-aware visual representation learning, learning intuitive physics from videos, learning inverse graphics from images/videos.
 
+A few representative publications in the interest areas of the workshop are listed in our references below.
+
 
 #### Submission instructions
 
@@ -374,7 +376,7 @@ To be announced
 </table>
 
 
-### Mentorship and outreach chairs
+### Mentorship and outreach chair
 
 <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -395,9 +397,87 @@ To be announced
     </tr>
 </table>
 
-### Program committee
 
-Work-in-progress
+### Advisory board
+
+
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+        <!-- Shuran -->
+        <td style="border: none;">
+        <div class="col-xs-15">
+            <a href="https://shurans.github.io/" target="_blank">
+              <p align="center">
+              <img class="people-pic" src="assets/img/shuran.jpg">
+              </p>
+            </a>
+            <div class="people-name text-center">
+              <a href="https://shurans.github.io/" target="_blank">Shuran Song</a>, <a href="https://www.cs.columbia.edu/" target="_blank">Columbia University</a>
+            </div>
+        </div>
+        </td>
+        <!-- Florian -->
+        <td style="border: none;">
+        <div class="col-xs-15">
+            <a href="http://www.cs.toronto.edu/~florian/" target="_blank">
+              <p align="center">
+              <img class="people-pic" src="assets/img/florian.jpg">
+              </p>
+            </a>
+            <div class="people-name text-center">
+              <a href="http://www.cs.toronto.edu/~florian/" target="_blank">Florian Shkurti</a><br>
+              <a href="https://vectorinstitute.ai/" target="_blank">Vector institute</a>, <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>
+            </div>
+        </div>
+        </td>
+        <!-- Liam -->
+        <td style="border: none;">
+        <div class="col-xs-15">
+            <a href="https://liampaull.ca/" target="_blank">
+              <p align="center">
+              <img class="people-pic" src="assets/img/liam.png">
+              </p>
+            </a>
+            <div class="people-name text-center">
+              <a href="https://liampaull.ca/" target="_blank">Liam Paull</a><br>
+              <a href="https://mila.quebec/en/" target="_blank">Mila</a>, <a href="https://www.umontreal.ca/" target="_blank">Universite de Montreal</a>
+            </div>
+        </div>
+        </td>
+    </tr>
+</table>
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+        <!-- Derek -->
+        <td style="border: none;">
+        <div class="col-xs-15">
+            <a href="http://www.cim.mcgill.ca/~derek/" target="_blank">
+              <p align="center">
+              <img class="people-pic" src="assets/img/derek.jpg">
+              </p>
+            </a>
+            <div class="people-name text-center">
+              <a href="http://www.cim.mcgill.ca/~derek/" target="_blank">Derek Nowrouzezahrai</a><br>
+              <a href="https://mila.quebec/en/" target="_blank">Mila</a>, <a href="https://mcgill.ca/" target="_blank">McGill</a>
+            </div>
+        </div>
+        </td>
+        <!-- Josh -->
+        <td style="border: none;">
+        <div class="col-xs-15">
+            <a href="http://web.mit.edu/cocosci/josh.html" target="_blank">
+                <p align="center">
+                <img class="people-pic" src="assets/img/josh.jpg">
+                </p>
+            </a>
+            <div class="people-name text-center">
+              <a href="http://web.mit.edu/cocosci/josh.html" target="_blank">Josh Tenenbaum</a><br>
+              <a href="https://www.mit.edu/" target="_blank">Massachusetts Institute of Technology</a>
+            </div>
+        </div>
+        </td>
+    </tr>
+</table>
 
 
 ### References
