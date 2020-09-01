@@ -350,7 +350,7 @@ To be announced
 </table>
 
 
-### Diversity and inclusion chair
+### Diversity, equity, and inclusion chair
 
 
 <table style="border-collapse: collapse; border: none;">
