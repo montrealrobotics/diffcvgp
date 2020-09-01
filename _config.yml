@@ -54,6 +54,9 @@ minima:
 # Build settings
 theme: minima
 
+# Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
+masthead: assets/img/banner.jpg
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
