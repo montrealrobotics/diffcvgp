@@ -171,7 +171,7 @@ Please complete [this form](https://docs.google.com/forms/d/1Ky6Et26ODf6IIgJwYcA
 
 #### Important dates
 
-* Early submission (mentorship track): **25 September 2020 (Wednesday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
+* Early submission (mentorship track): **25 September 2020 (Friday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
 * Final workshop submissions due: **8 October 2020 (Thurday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
 * Author notifications: **23 October 2020 (Thursday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
 
