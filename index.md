@@ -162,18 +162,18 @@ For any queries or concerns about any aspect of the workshop, please do not hesi
 
 #### Early submission mentorship track
 
-Our call for papers will include an early-submission mentorship track that pairs authors with experienced researchers who have committed to providing meaningful feedback to help polish papers for general submission. This program will facilitate a private dialogue between the mentee and mentor with the goal of fostering an inclusive and supportive research community.
+Our call for papers includes an early-submission mentorship track that pairs authors with experienced researchers who have committed to providing meaningful feedback to help polish papers for general submission. This program facilitates a private dialogue between the mentee and mentor with the goal of fostering an inclusive and supportive research community.
 
 Paper submissions to the mentorship track are to be true drafts with at least 80% of work completed. Mentors are expected to provide a timely initial review of the draft submission and are encouraged to continue to engage with the mentee as they prepare for their final submission.
 
-Please complete [this form](https://docs.google.com/forms/d/1Ky6Et26ODf6IIgJwYcA22cWQVwUGUrjNBCR85eSrFiE/viewform?edit_requested=true) if you are interested in becoming a mentor for our 2020 NeurIPS workshop. If selected, we'll let you know your mentee matches by the week of September 24.
+Please complete [this form](https://docs.google.com/forms/d/1Ky6Et26ODf6IIgJwYcA22cWQVwUGUrjNBCR85eSrFiE/viewform?edit_requested=true) if you are interested in becoming a mentor for our 2020 NeurIPS workshop. If selected, we'll let you know your mentee matches by the week of October 29.
 
 
 #### Important dates
 
-* Early submission (mentorship track): **25 September 2020 (Friday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
-* Final workshop submissions due: **8 October 2020 (Thurday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
-* Author notifications: **23 October 2020 (Thursday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
+* Early submission (mentorship track): ~~**25 September 2020 (Friday), Noon (1200 hrs)** Eastern Daylight Time (EDT)~~
+* Final workshop submissions due: ~~8 October 2020~~ **15 October 2020 (Thurday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
+* Author notifications: ~~23 October 2020~~ **27 October 2020 (Thursday), Noon (1200 hrs)** Eastern Daylight Time (EDT)
 
 
 #### Submission portal
