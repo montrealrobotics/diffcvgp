@@ -16,7 +16,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/assets/img/sanja.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/sanja.jpg">
                 </p>
             </div>
         </td>
@@ -31,7 +31,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/assets/img/peter.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/peter.jpg">
                 </p>
             </div>
         </td>
@@ -46,7 +46,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/assets/img/andrea.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/andrea.jpg">
                 </p>
             </div>
         </td>
@@ -61,7 +61,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/assets/img/georgia.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/georgia.jpg">
                 </p>
             </div>
         </td>
@@ -76,7 +76,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/assets/img/ming.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/ming.jpg">
                 </p>
             </div>
         </td>
@@ -91,7 +91,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/assets/img/camillo.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/camillo.jpg">
                 </p>
             </div>
         </td>
@@ -106,7 +106,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/assets/img/bethany.jpg">
+                    <img class="people-pic" src="/diffcvgp/diffcvgp/assets/img/bethany.jpg">
                 </p>
             </div>
         </td>
@@ -121,7 +121,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/assets/img/yuanming.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/yuanming.jpg">
                 </p>
             </div>
         </td>
