@@ -90,18 +90,18 @@ We are excited to host invited talks from a series of fantastic speakers who are
             </div>
         </td>
     </tr>
-    <!-- Abhinav Gupta -->
+    <!-- Ming Lin -->
     <tr>
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="assets/img/abhinav.jpg">
+                    <img class="people-pic" src="assets/img/ming.jpg">
                 </p>
             </div>
         </td>
         <td>
             <div class="people-name text-center">
-                <a href="http://www.cs.cmu.edu/~abhinavg/" target="_blank">Abhinav Gupta</a>, <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, <a href="https://research.facebook.com/ai/" target="_blank">Facebook AI Research</a>
+                <a href="https://www.cs.umd.edu/~lin/" target="_blank">Ming Lin</a>, <a href="https://www.cs.umd.edu/" target="_blank">University of Maryland</a>
             </div>
         </td>
     </tr>
@@ -117,6 +117,21 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="people-name text-center">
                 <a href="https://www.cis.upenn.edu/~cjtaylor/" target="_blank">Camillo Jose Taylor</a>, <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>
+            </div>
+        </td>
+    </tr>
+    <!-- Bethany Lusch -->
+    <tr>
+        <td>
+            <div class="col-xs-2">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/bethany.jpg">
+                </p>
+            </div>
+        </td>
+        <td>
+            <div class="people-name text-center">
+                <a href="https://www.alcf.anl.gov/about/people/bethany-lusch" target="_blank">Bethany Lusch</a>, <a href="https://www.alcf.anl.gov/" target="_blank">Argonne National Lab</a>
             </div>
         </td>
     </tr>
@@ -179,6 +194,11 @@ Please complete [this form](https://docs.google.com/forms/d/1Ky6Et26ODf6IIgJwYcA
 #### Submission portal
 
 Our submission portal is now online: [https://cmt3.research.microsoft.com/DiffCVGP2020/](https://cmt3.research.microsoft.com/DiffCVGP2020/)
+
+
+#### Questions/Clarifications
+
+In case of questions/clarifications, the organizers may be reached at diffcvgp-2020@googlegroups.com
 
 
 
