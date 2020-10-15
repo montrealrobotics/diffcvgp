@@ -2,11 +2,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Call for Papers
-permalink: /callforpapers/
+title: References
+permalink: /references/
 ---
-
-### References
 
 Here are a few representative papers of the focus areas for this workshop. This list is not intended to be exhaustive, and is only intended as a "reading list" for researchers exploring this exciting line of research. Suggestions and contributions to this list welcome!
 

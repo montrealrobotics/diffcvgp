@@ -6,8 +6,6 @@ title: Call for Papers
 permalink: /callforpapers/
 ---
 
-### Call for papers
-
 
 #### Areas of interest
 
