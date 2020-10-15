@@ -17,7 +17,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="https://krrish94.github.io" target="_blank">
             <p align="center">
-            <img class="people-pic" src="assets/img/krishna.jpg">
+            <img class="people-pic" src="/robotlearningseries/assets/img/krishna.jpg">
             </p>
             </a>
             <div class="people-name text-center">
@@ -31,7 +31,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="https://web.mit.edu/krallen/www/" target="_blank">
               <p align="center">
-              <img class="people-pic" src="assets/img/kelsey.png">
+              <img class="people-pic" src="/robotlearningseries/assets/img/kelsey.png">
               </p>
             </a>
             <div class="people-name text-center">
@@ -53,7 +53,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="https://vdean.github.io/" target="_blank">
               <p align="center">
-              <img class="people-pic" src="assets/img/victoria.jpg">
+              <img class="people-pic" src="/robotlearningseries/assets/img/victoria.jpg">
               </p>
             </a>
             <div class="people-name text-center">
@@ -75,7 +75,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="https://johannah.github.io/" target="_blank">
               <p align="center">
-              <img class="people-pic" src="assets/img/johanna.jpg">
+              <img class="people-pic" src="/robotlearningseries/assets/img/johanna.jpg">
               </p>
             </a>
             <div class="people-name text-center">
@@ -98,7 +98,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="https://shurans.github.io/" target="_blank">
               <p align="center">
-              <img class="people-pic" src="assets/img/shuran.jpg">
+              <img class="people-pic" src="/robotlearningseries/assets/img/shuran.jpg">
               </p>
             </a>
             <div class="people-name text-center">
@@ -111,7 +111,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="http://www.cs.toronto.edu/~florian/" target="_blank">
               <p align="center">
-              <img class="people-pic" src="assets/img/florian.jpg">
+              <img class="people-pic" src="/robotlearningseries/assets/img/florian.jpg">
               </p>
             </a>
             <div class="people-name text-center">
@@ -125,7 +125,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="https://liampaull.ca/" target="_blank">
               <p align="center">
-              <img class="people-pic" src="assets/img/liam.png">
+              <img class="people-pic" src="/robotlearningseries/assets/img/liam.png">
               </p>
             </a>
             <div class="people-name text-center">
@@ -143,7 +143,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="http://www.cim.mcgill.ca/~derek/" target="_blank">
               <p align="center">
-              <img class="people-pic" src="assets/img/derek.jpg">
+              <img class="people-pic" src="/robotlearningseries/assets/img/derek.jpg">
               </p>
             </a>
             <div class="people-name text-center">
@@ -157,7 +157,7 @@ The organizers can be reached at diffcvgp-2020@googlegroups.com in case of any c
         <div class="col-xs-15">
             <a href="http://web.mit.edu/cocosci/josh.html" target="_blank">
                 <p align="center">
-                <img class="people-pic" src="assets/img/josh.jpg">
+                <img class="people-pic" src="/robotlearningseries/assets/img/josh.jpg">
                 </p>
             </a>
             <div class="people-name text-center">
