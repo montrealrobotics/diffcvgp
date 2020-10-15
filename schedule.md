@@ -106,7 +106,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-2">
                 <p align="center">
-                    <img class="people-pic" src="/diffcvgp/diffcvgp/assets/img/bethany.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/bethany.jpg">
                 </p>
             </div>
         </td>
