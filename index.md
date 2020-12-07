@@ -14,6 +14,8 @@ title: Home
 
 ### Differentiable vision, graphics, and physics applied to machine learning
 
+> **Virtual event, 11 December 2020 (Friday)**
+
 
 “Differentiable programs” are parameterized programs that allow themselves to be rewritten by gradient-based optimization. They are ubiquitous in modern-day machine learning. Recently,  explicitly encoding our knowledge of the rules of the world in the form of differentiable programs has become more popular. In particular, differentiable realizations of well-studied processes such as physics, rendering, projective geometry, optimization to name a few, have enabled the design of several novel learning techniques. For example, many approaches have been proposed for unsupervised learning of depth estimation [1‒6] from unlabeled videos. Differentiable 3D reconstruction pipelines [7, 8] have demonstrated the potential for task-driven representation learning. A number of differentiable rendering approaches [9‒14] have been shown to enable single-view 3D reconstruction and other inverse graphics tasks (without requiring any form of 3D supervision). Differentiable physics simulators are being built [15‒20] to perform physical parameter estimation from video or for model-predictive control. While these advances have largely occurred in isolation, recent efforts [21‒24] have attempted to bridge the gap between the aforementioned areas. Narrowing the gaps between these otherwise isolated disciplines holds tremendous potential to yield new research directions and solve long-standing problems, particularly in understanding and reasoning about the 3D world.
 

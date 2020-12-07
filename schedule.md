@@ -9,7 +9,7 @@ permalink: /schedule/
 
 We are excited to host invited talks from a series of fantastic speakers who are experts in differentiable vision, graphics, physics, and allied areas. Additionally, we have five contributed talks chosen from the submissions received.
 
-**All times below are listed in Eastern Standard Time (Toronto/New York)**
+The workshop will be held on 11 December 2020 (Friday). **All times below are listed in Eastern Standard Time (Toronto/New York)**
 
 <table>
     <!-- Opening remarks -->
