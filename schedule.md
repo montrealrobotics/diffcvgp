@@ -22,7 +22,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-4">
                 <p align="center">
-                    <img class="people-pic" src="/diffcvgp/assets/img/default.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/default.png">
                 </p>
             </div>
         </td>
@@ -182,7 +182,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-4">
                 <p align="center">
-                    <img class="people-pic" src="/diffcvgp/assets/img/default.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/default.png">
                 </p>
             </div>
         </td>
@@ -202,7 +202,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-4">
                 <p align="center">
-                    <img class="people-pic" src="/diffcvgp/assets/img/default.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/default.png">
                 </p>
             </div>
         </td>
@@ -222,7 +222,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-4">
                 <p align="center">
-                    <img class="people-pic" src="/diffcvgp/assets/img/default.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/default.png">
                 </p>
             </div>
         </td>
@@ -242,7 +242,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-4">
                 <p align="center">
-                    <img class="people-pic" src="/diffcvgp/assets/img/default.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/default.png">
                 </p>
             </div>
         </td>
@@ -262,7 +262,7 @@ We are excited to host invited talks from a series of fantastic speakers who are
         <td>
             <div class="col-xs-4">
                 <p align="center">
-                    <img class="people-pic" src="/diffcvgp/assets/img/default.jpg">
+                    <img class="people-pic" src="/diffcvgp/assets/img/default.png">
                 </p>
             </div>
         </td>
