@@ -6,6 +6,8 @@ title: Call for Papers
 permalink: /callforpapers/
 ---
 
+This call for papers is now inactive and is only meant for reference/archival purposes.
+
 
 #### Areas of interest
 

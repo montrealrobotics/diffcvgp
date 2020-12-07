@@ -51,6 +51,7 @@ minima:
 header_pages:
 - index.md
 - schedule.md
+- papers.md
 - callforpapers.md
 - organizers.md
 - references.md
