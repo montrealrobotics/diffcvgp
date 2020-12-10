@@ -8,6 +8,8 @@ permalink: /papers/
 
 The following 20 papers have been accepted for presentation at the workshop (5 orals, 15 posters).
 
+All papers will be presented as posters in a virtual session organized via gather.town. [Check here for a guide to our posters](/diffcvgp/assets/papers/poster_key.pdf).
+
 1. **DELUCA: Differentiable Control Library: Environments, Methods, and Benchmarking**. *Paula Gradu, John Hallman, Daniel C Suo, Alex Yu, Naman Agarwal, Udaya Ghai, Karan Singh, Cyril Zhang, Anirudha Majumdar, Elad Hazan*. [**Oral**] [[PDF](/diffcvgp/assets/papers/1.pdf)] [[Reviews](/diffcvgp/reviews/1)]
 2. **Inverse articulated-body dynamics from video via variational sequential Monte Carlo**. *Dan Biderman, Christian A Naesseth, Luhuan Wu, Taiga Abe, Alice C. Mosberger, Leslie J. Sibener, Rui M. Costa, James Murray, John Cunningham* [**Oral**] [[PDF](/diffcvgp/assets/papers/2.pdf)] [[Supplementary (PDF)](/diffcvgp/assets/papers/2-supp.pdf)] [[Reviews](/diffcvgp/reviews/2)]
 3. **phiflow: A Differentiable PDE Solving Framework for Deep Learning via Physical Simulations**. *Philipp M Holl, Kiwon Um, Nils Thuerey*. [**Oral**] [[PDF](/diffcvgp/assets/papers/3.pdf)] [[Reviews](/diffcvgp/reviews/3)]

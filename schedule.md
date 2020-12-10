@@ -11,6 +11,8 @@ We are excited to host invited talks from a series of fantastic speakers who are
 
 The workshop will be held on 11 December 2020 (Friday). **All times below are listed in Eastern Standard Time (Toronto/New York)**
 
+All papers will be presented as posters in a virtual session organized via gather.town. [Check here for a guide to our posters](/diffcvgp/assets/papers/poster_key.pdf).
+
 <table>
     <!-- Opening remarks -->
     <tr>
