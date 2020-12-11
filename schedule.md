@@ -441,6 +441,7 @@ All papers will be presented as posters in a virtual session organized via gathe
         <td>
             <p align="center">
                 <b>Panel discussion: The promises and perils of differentiable methods</b>
+                <a href="https://youtu.be/XGj_IQ-cxZw"> YouTube link </a>
             </p>
         </td>
     </tr>
