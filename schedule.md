@@ -398,7 +398,7 @@ All papers will be presented as posters in a virtual session organized via gathe
     <tr>
         <td>
             <p align="center">
-                1446 - 1511
+                1500 - 1525
             </p>
         </td>
         <td>
@@ -418,7 +418,7 @@ All papers will be presented as posters in a virtual session organized via gathe
     <tr>
         <td>
             <p align="center">
-                1511 - 1516
+                1525 - 1530
             </p>
         </td>
         <td>
@@ -433,7 +433,7 @@ All papers will be presented as posters in a virtual session organized via gathe
     <tr>
         <td>
             <p align="center">
-                1516 - 1630
+                1530 - 1645
             </p>
         </td>
         <td>
@@ -448,7 +448,7 @@ All papers will be presented as posters in a virtual session organized via gathe
     <tr>
         <td>
             <p align="center">
-                1630 - 1730
+                1645 - 1800
             </p>
         </td>
         <td>
